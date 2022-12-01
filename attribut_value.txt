@@ -1,0 +1,15 @@
+fps:20
+
+player1:
+    movement_speed_p1: 1
+    attacking_speed_p1: 1
+    attacking_range_p1: 5
+    defending_range_p1: 1
+    blocking_time_p1: 1
+
+player2:
+    movement_speed_p2: 1
+    attacking_speed_p2: 1
+    attacking_range_p2: 3
+    defending_range_p2: 1
+    blocking_time_p2: 10
