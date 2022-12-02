@@ -16,7 +16,7 @@ Unfortunately, only playable on windows terminal.
 - install python 3.9.6 or higher version
 - install all necessary python module
 
-## Python modul to install
+## Python module to install
 
 Use the pakage manager [pip](https://pip.pypa.io/en/stable/installation/) to install [simpleaudio](https://simpleaudio.readthedocs.io/en/latest/)
 ```python
